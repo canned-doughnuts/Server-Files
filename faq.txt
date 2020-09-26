@@ -35,3 +35,6 @@
 
 **11. Where can I learn programming neural networks?**
     Check #resources.
+
+**12. What is a good starter language to learn?**
+    Languages such as C#, C++, Javascript and Python are recommended for beginners.
